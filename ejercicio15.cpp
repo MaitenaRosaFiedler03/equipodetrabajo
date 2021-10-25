@@ -12,7 +12,7 @@ int main (){
 	cout << "pi sub 1 da como resultado: " << pi1<< endl; 
 	cout << "x1 es : " << x1 << endl; 
 	cout << "y1 es : " << y1 << endl; 
-	
+	cout << "Hola soy Alberto" << endl;
 	
 	x2=0.5* (sqrt (x1) + (1/ sqrt (x1)));
 	y2= ((Y1 * sqrt(x1))+ (1 / sqrt(x1))/ Y1 +1);
